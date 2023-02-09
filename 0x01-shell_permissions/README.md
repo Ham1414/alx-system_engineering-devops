@@ -14,3 +14,4 @@
 13. Change the group owner to "school" for the file "hello"
 14. Change the owner and the group owner for all the file and directories
 15. Change the owner and the group owner of a specific file
+16. Changes the owner of the file "hello" to "betty" only if it is owned by the user "guillaume"
