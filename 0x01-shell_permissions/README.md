@@ -8,3 +8,4 @@
 7. Excution permission to the owner, the group owner and the other user 
 8. Sets the permission to the file
 9. Sets the mode of the file
+10. Sets the mod of the file "hello" the same as "olleh's mode
