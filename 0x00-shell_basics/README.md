@@ -4,3 +4,4 @@
 3. Display current directory contents in long format
 4. Display current directory content, including hidden files in long format
 5. Display current directory contents with users and group IDs displayed numerically and hidden files in long format
+6. To create a directory
