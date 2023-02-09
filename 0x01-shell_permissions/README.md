@@ -4,4 +4,5 @@
 3. Change the owner of the file
 4. Create an empty file
 5. Adds excute permission to the owner of the file
-6. Excute permission to the owner and the group owner, and read permission to other users 
+6. Excute permission to the owner and the group owner, and read permission to other users
+7. Excution permission to the owner, the group owner and the other user 
