@@ -9,4 +9,5 @@
 8. Delete the file betty
 9. Delete the directory
 10. Change the working directory to the previous one
-11. Lists all files   
+11. Lists all files
+12. Prints the type of the file   
