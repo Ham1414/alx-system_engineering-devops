@@ -10,4 +10,5 @@
 9. Delete the directory
 10. Change the working directory to the previous one
 11. Lists all files
-12. Prints the type of the file   
+12. Prints the type of the file
+13. Createa symbolic link   
