@@ -7,3 +7,4 @@
 6. Excute permission to the owner and the group owner, and read permission to other users
 7. Excution permission to the owner, the group owner and the other user 
 8. Sets the permission to the file
+9. Sets the mode of the file
