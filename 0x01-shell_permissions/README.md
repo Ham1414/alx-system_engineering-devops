@@ -9,3 +9,4 @@
 8. Sets the permission to the file
 9. Sets the mode of the file
 10. Sets the mod of the file "hello" the same as "olleh's mode
+11. Execute permission to all sub directoriesof the current directory for the owner, the group owner and all other users
