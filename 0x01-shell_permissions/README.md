@@ -12,3 +12,4 @@
 11. Execute permission to all sub directoriesof the current directory for the owner, the group owner and all other users
 12. Create a directory with permissions
 13. Change the group owner to "school" for the file "hello"
+14. Change the owner and the group owner
