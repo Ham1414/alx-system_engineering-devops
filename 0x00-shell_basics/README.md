@@ -8,4 +8,5 @@
 7. Move the file betty
 8. Delete the file betty
 9. Delete the directory
-10. Change the working directory to the previous one 
+10. Change the working directory to the previous one
+11. Lists all files   
