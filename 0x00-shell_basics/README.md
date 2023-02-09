@@ -7,3 +7,4 @@
 6. To create a directory
 7. Move the file betty
 8. Delete the file betty
+9. Delete the directory 
