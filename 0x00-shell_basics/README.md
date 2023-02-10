@@ -14,3 +14,4 @@
 13. Createa symbolic link 
 14. Copies all HTML files from the current working directory to the parent of the working directory
 15. Moves all files beginning with an uppercase letter to the directory
+16. Deletes all files in the current working directory that end with the character ~
