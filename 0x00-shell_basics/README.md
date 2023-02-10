@@ -11,4 +11,6 @@
 10. Change the working directory to the previous one
 11. Lists all files
 12. Prints the type of the file
-13. Createa symbolic link   
+13. Createa symbolic link 
+14. Copies all HTML files from the current working directory to the parent of the working directory
+15. Moves all files beginning with an uppercase letter to the directory
