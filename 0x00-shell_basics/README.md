@@ -16,3 +16,4 @@
 15. Moves all files beginning with an uppercase letter to the directory
 16. Deletes all files in the current working directory that end with the character ~
 17. Create a tree directories
+18. Lists all the files and directories of the current directory separeted by commas (,), end with slash (/), starting with dot, letters and digits are used to sort
